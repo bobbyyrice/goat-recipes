@@ -1,2 +1,2 @@
 # goat-recipes
-goat
+making goat recipes on gang
