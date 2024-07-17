@@ -1,38 +1,68 @@
 * {
     font-family: Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
-.GS-marinade{
-    background-color: cadetblue;
-    color: blue;
+.what2{
+    color: #EEEEEE;
+    background-color: rgb(116, 116, 116);
 }
 
-#goat{
-    background-color: aliceblue;
+.goat{
+    color: #EEEEEE;
+    display:block
+}
+
+#mugshot{
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
+/* title */
+.goat#a{
+    background-color: #548CA8;
+    display: block;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
     text-align: center;
+    color: #EEEEEE;
+    font-size: 36px;
+    font-weight: 700;
+}
+/* list */
+.goat#c{
+    background-color: #476072;
+    display: block;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    border: 10px #ffffff;
+    color: #EEEEEE;
+    font-size: 24px;
 }
 
-#goat2{
-    color: beige;
-    background-color: blanchedalmond;
+.test,
+.test1{
+    color: #EEEEEE;
+    padding: 20px;
+    margin: 20px;
+    font-weight: 1000;
 }
 
-#goat3{
-    color: red;
-    background-color: black;
-}
-
-.thebestyuh{
-    color: blueviolet;
-    background-color: yellow;
-}
-
-#bettergoat{
-    color: red;
-    background-color: black;
-}
-
-#whaaat{
-    color: blue;
-    background-color: chocolate;
+/* real recipes */
+.goat#b{
+    display: block;
+    margin: auto;
+    background-color: #334257;
+    width: 300px;
+    height: 70px;
+    padding: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 900;
+    color: #EEEEEE;
+    font-size: 12px;
 }
