@@ -11,13 +11,16 @@
 .goat{
     color: #EEEEEE;
     display:block
+    
 }
 
 #mugshot{
     margin: auto;
     display: block;
-    margin-top: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
+
 /* title */
 .goat#a{
     background-color: #548CA8;
@@ -30,6 +33,21 @@
     font-size: 36px;
     font-weight: 700;
 }
+
+/* real recipes */
+.goat#b{
+    display: block;
+    margin: auto;
+    background-color: #334257;
+    height: 80px;
+    width: 250px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 24px;
+    padding: 25px;
+}
+
 /* list */
 .goat#c{
     background-color: #476072;
@@ -51,18 +69,20 @@
     font-weight: 1000;
 }
 
-/* real recipes */
-.goat#b{
+/* steak */
+.goatsteak{
+    background-color: #808080;
+    color: #EEEEEE;
+}
+
+#header{
+    margin: auto;
+}
+
+.home,
+.top{
     display: block;
     margin: auto;
-    background-color: #334257;
-    width: 300px;
-    height: 70px;
-    padding: 30px;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    text-align: center;
-    font-weight: 900;
-    color: #EEEEEE;
-    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
