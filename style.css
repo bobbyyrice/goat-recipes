@@ -78,8 +78,11 @@
 #header{
     margin: auto;
     width: 180px;
+    background-color: #334257;
+    text-align: center;
 }
 
+/* bottom links steak */
 .home,
 .top{
     display: block;
@@ -88,4 +91,86 @@
     margin-bottom: 15px;
     color: #EEEEEE;
     width: 100px;
+}
+
+/* all steak stuff ion */
+.goatsteak .goatsteak1{
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.goatsteakIG{
+    padding: 0px;
+}
+
+.goattestings{
+    padding: 3px;
+}
+
+.whatwhat,
+.whatwhat2{
+    background-color: #3c5f70;
+}
+
+/* ingredients fatty */
+.whatwhat{
+    padding: 20px;
+    margin-bottom: -20px;
+}
+
+/* marinade */
+.whatwhat2{
+
+}
+
+/* steak pic */
+.steakpic{
+    width: 180px;
+    height: 180px;
+    margin: auto;
+}
+
+.steakdesc{
+    background-color: #334257;
+    padding: 20px;
+    font-size: 24px;
+}
+.steakdesc2{
+    background-color: #334257;
+    padding: 20px;
+    margin-top: -24px;
+    margin-bottom: -20px;
+}
+
+.goatsteak1{
+    /* nun much here G */
+    display: block;
+}
+
+.goatsteaknun{
+    padding-bottom: 20px;
+}
+
+.gangbangas,
+.gangbangas2{
+    background-color: #19415e;
+    padding: 20px;
+}
+
+.gangbangas2{
+    text-align: center;
+    margin-top: -20px;
+    padding: 20px;
+}
+
+.gangbangtest{
+    text-align: center;
+    margin: auto;
+}
+
+.mugshot{
+    display: block;
+    width: 180px;
+    margin: auto;
 }
