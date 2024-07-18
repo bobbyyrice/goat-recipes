@@ -174,3 +174,52 @@
     width: 180px;
     margin: auto;
 }
+
+/* goat feet next probs */
+
+.goatfeet1{
+    margin: auto;
+    width: 300px;
+    background-color: #808080;
+    color: #EEEEEE;
+    text-align: center;
+}
+
+.goatfeetDESC,
+.goatfeetDESC2{
+    background-color: #223e52;
+    padding: 20px;
+}
+
+.goatfeetDESC{
+    margin-bottom: -20px;
+    font-size: 24px;
+}
+
+.feeting{
+    background-color: #3c5f70;
+    padding: 20px;
+}
+
+.foridiots{
+    background-color: #5b7b8b;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#header2{
+    background-color: #476072;
+    width: 180px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#back2topyuh,
+#homeyuh{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #EEEEEE;
+    width: 100px;
+}
